@@ -1,5 +1,5 @@
 {
-    "name": "nollaversio/laravel-sqs-jobless",
+    "name": "shield-leasing/laravel-sqs-jobless",
     "description": "Receiving custom messages from Amazon SQS",
     "type": "library",
     "license": "MIT",
